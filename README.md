@@ -1,3 +1,3 @@
 # nikhillearning
-for learning git
+for learning git.
 Author - Nikhil
